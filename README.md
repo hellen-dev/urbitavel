@@ -1,3 +1,9 @@
+# Participantes
+- Ana Zerlin         RM98065
+- Bianca Dancs       RM551645
+- Gabriel Pimentel   RM99880
+- Hellen Assis       RM98284
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
